@@ -9,7 +9,6 @@ const vector<string> heroes = { "Doomfist", "Genji", "McCree", "Pharah", "Reaper
 		"Tracer", "Bastion", "Hanzo", "Junkrat", "Mei", "Torbjörn", "Widowmaker", "D.Va", "Orisa", "Reinhardt",
 		"Roadhot", "Winston", "Zarya", "Ana", "Lúcio", "Mercy", "Symmetra", "Zenyatta"};
 vector<string> split(const string&s, char delim);
-vector<string> sanitize(const string&s);
 
 int main()
 {
